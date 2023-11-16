@@ -29,4 +29,4 @@ If you have suggestions or improvements, please open an issue or create a pull r
 
 ### License
 
-The source code is distributed under the `MIT` License. Detailed information about the license can be found in the file [LICENSE](https://github.com/it-tinyangel/JS-core-DOM-the-addEventListener-Event-Object-handleEvent-MouseEvent-Modifying-the-color/blob/main/LICENSE)
+The source code is distributed under the `MIT` License. Detailed information about the license can be found in the file [LICENSE](https://github.com/it-tinyangel/JS-core-DOM-the-addEventListener-Event-Object-handleEvent-MouseEvent-Interactive-Block/blob/main/LICENSE)
