@@ -8,9 +8,9 @@ This repository contains simple JavaScript code that changes the background colo
 
 ### Instructions
 
-1. Clone the repository to your computer:
+1. Clone the repository:
 ```
-https://github.com/it-tinyangel/JS-core-DOM-the-addEventListener-Event-Object-handleEvent-MouseEvent-Interactive-Block.git
+git clone https://github.com/it-tinyangel/JS-core-DOM-the-addEventListener-Event-Object-handleEvent-MouseEvent-Interactive-Block.git
 ```
 2. Open the `index.html` file in your browser.
 3. Interact with the box by hovering to see the dynamic changes.
