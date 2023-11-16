@@ -10,9 +10,10 @@ This repository contains simple JavaScript code that changes the background colo
 
 1. Clone the repository to your computer:
 ```
-https://github.com/it-tinyangel/JS-core-DOM-the-addEventListener-Event-Object-handleEvent-MouseEvent-Modifying-the-color.git
+https://github.com/it-tinyangel/JS-core-DOM-the-addEventListener-Event-Object-handleEvent-MouseEvent-Interactive-Block.git
 ```
 2. Open the `index.html` file in your browser.
+3. Interact with the box by hovering to see the dynamic changes.
 
 ### Usage
 
@@ -20,7 +21,7 @@ Open the `index.html` file in your web browser and watch the colors change when 
 
 ### Customization
 
-This simple code can serve as a starting point for other projects or experimenting with with changing colors.
+This simple code can serve as a starting point for other projects or experimenting  with event-based color.
 
 ### Contributing
 
